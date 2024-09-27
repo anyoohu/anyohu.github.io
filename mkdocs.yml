@@ -19,15 +19,15 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: anyohu's blog
+site_name: anyohu for MkDocs
 site_url: https://anyohu.github.io/
 site_author: anyohu
 site_description: >-
   123456
 
 # Repository
-repo_name: anyohu/anyohu.github.io
-repo_url: https://anyohu.github.io
+repo_name: squidfunk/mkdocs-anyohu
+repo_url: https://github.com/squidfunk/anyohu.github.io
 
 # Copyright
 copyright: Copyright &copy; 2023 - 2024 anyohu
