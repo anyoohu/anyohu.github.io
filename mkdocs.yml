@@ -26,11 +26,11 @@ site_description: >-
   123456
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: anyohu/anyohu.github.io
+repo_url: https://anyohu.github.io
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2024 Martin Donath
+copyright: Copyright &copy; 2023 - 2024 anyohu
 
 # Configuration
 theme:
