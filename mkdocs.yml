@@ -26,8 +26,8 @@ site_description: >-
   123456
 
 # Repository
-repo_name: squidfunk/mkdocs-anyohu
-repo_url: https://github.com/squidfunk/anyohu.github.io
+repo_name: anyohu.github.io
+repo_url: https://github.com/anyohu.github.io
 
 # Copyright
 copyright: Copyright &copy; 2023 - 2024 anyohu
