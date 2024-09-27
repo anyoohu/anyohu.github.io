@@ -20,7 +20,7 @@
 
 # Project information
 site_name: anyohu's blog
-site_url: https://anyohu.github.io
+site_url: https://anyohu.github.io/
 site_author: anyohu
 site_description: >-
   anyohu's bolg ，正在测试中....
@@ -35,7 +35,7 @@ copyright: Copyright &copy; 2016 - 2024 anyohu
 # Configuration
 theme:
   name: anyohu
-  custom_dir: material/overrides
+  custom_dir: anyohu/overrides
   features:
     - announce.dismiss
     - content.action.edit
