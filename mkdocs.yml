@@ -18,21 +18,21 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 
-# Project information
+# Project information 项目名称、链接、描述
 site_name: anyohu for MkDocs
 site_url: https://anyohu.github.io/
 site_author: anyohu
 site_description: >-
   123456
 
-# Repository
+# Repository 仓库
 repo_name: anyohu.github.io
-repo_url: https://github.com/anyohu.github.io
+repo_url: https://anyohu.github.io
 
-# Copyright
+# Copyright 版权
 copyright: Copyright &copy; 2023 - 2024 anyohu
 
-# Configuration
+# Configuration 配置
 theme:
   name: material
   custom_dir: material/overrides
@@ -98,12 +98,12 @@ plugins:
   - minify:
       minify_html: true
 
-# Hooks
+# Hooks 是一种在软件运行时拦截和修改函数、消息或事件的技术
 hooks:
   - material/overrides/hooks/shortcodes.py
   - material/overrides/hooks/translations.py
 
-# Additional configuration
+# Additional configuration 其他配置
 extra:
   status:
     new: Recently added
